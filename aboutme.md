@@ -6,11 +6,20 @@ subtitle: What makes you want to know me?
 
 **This is what i call my vibe**
 
-- I'm extremely loyal to my family
-- I like road trips to destinations and natural attractions
-- I am a nature lover and photographer
-- I am crazy into healthy lifestyle, fitness and spirituality
-- Apart from stats, I am a car buff so feel free to throw at me anything about cars!
-  
-![This is me!](assets/img/IMG_7208.jpg)
+<div style="display: flex; align-items: flex-start;">
 
+<div style="flex: 1;">
+  <ul>
+    <li>I'm extremely loyal to my family</li>
+    <li>I like road trips to destinations and natural attractions</li>
+    <li>I am a nature lover and photographer</li>
+    <li>I am crazy into healthy lifestyle, fitness, and spirituality</li>
+    <li>Apart from stats, I am a car buff so feel free to throw at me anything about cars!</li>
+  </ul>
+</div>
+
+<div style="flex: 1;">
+  <img src="assets/img/IMG_7208.jpg" alt="This is me!" style="width: 300px; border-radius: 10px;">
+</div>
+
+</div>
