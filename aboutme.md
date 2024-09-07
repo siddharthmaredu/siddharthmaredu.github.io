@@ -4,11 +4,12 @@ title: About me
 subtitle: What makes you want to know me?
 ---
 
-**This is what i call my vibe**
-
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
+  <div>
+    <strong>This is what i call my vibe</strong>
+  </div>
   <ul>
     <li>I'm extremely loyal to my family</li>
     <li>I like road trips to destinations and natural attractions</li>
