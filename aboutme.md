@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What makes you want to know me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**This is what i call my vibe**
 
-- I rock a great mustache
 - I'm extremely loyal to my family
+- I like road trips to destinations and natural attractions
+- I am a nature lover and photographer
+- I am crazy into healthy lifestyle, fitness and spirituality
+- Apart from stats, I am a car buff so feel free to throw me anything about cars!
+  
+![This is me!](https://github.com/siddharthmaredu/siddharthmaredu.github.io/assets/img/IMG_7208.jpg)
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
