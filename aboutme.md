@@ -19,7 +19,7 @@ subtitle: What makes you want to know me?
 </div>
 
 <div style="flex: 1; text-align: right;">
-  <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/assets/img/IMG_7208.jpg" alt="This is me!" style="max-width: 300px; margin-left: 20px; border-radius: 10px;">
+  <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/IMG_7208.jpg" alt="This is me!" style="width: 300px; border-radius: 10px;">
 </div>
 
 </div>
