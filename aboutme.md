@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: "<span style='font-size: 1.75rem;'>About me</span>"
 subtitle: What makes you want to know me?
 ---
 
