@@ -10,7 +10,7 @@ subtitle: What makes you want to know me?
 - I like road trips to destinations and natural attractions
 - I am a nature lover and photographer
 - I am crazy into healthy lifestyle, fitness and spirituality
-- Apart from stats, I am a car buff so feel free to throw me anything about cars!
+- Apart from stats, I am a car buff so feel free to throw at me anything about cars!
   
-![This is me!](https://github.com/siddharthmaredu/siddharthmaredu.github.io/assets/img/IMG_7208.jpg)
+![This is me!](assets/img/IMG_7208.jpg)
 
