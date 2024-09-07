@@ -18,7 +18,7 @@ subtitle: What makes you want to know me?
   </ul>
 </div>
 
-<div style="flex: 1; text-align: right;">
+<div style="flex: 1; margin-top: 0;">
   <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/IMG_7208.jpg" alt="This is me!" style="width: 300px; border-radius: 10px;">
 </div>
 
