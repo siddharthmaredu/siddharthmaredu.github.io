@@ -1,13 +1,17 @@
 ---
 layout: page
 title: "<span style='font-size: 1.75rem;'>About me</span>"
-subtitle: "<strong>This is what i call as my Vibe </strong>"
 ---
 
 <div style="margin-bottom: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start;">
-  
+
+  <div style="flex: 1;">
+    <div>
+      <strong>This is what i call as my vibe</strong>
+    </div>
+
     <br>
 
     <ul>
