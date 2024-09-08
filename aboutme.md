@@ -1,20 +1,15 @@
 ---
 layout: page
 title: "<span style='font-size: 1.75rem;'>About me</span>"
-subtitle: What makes you want to know me?
+subtitle: "<strong>This is what i call as my Vibe </strong>"
 ---
 
 <div style="margin-bottom: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start;">
   
-  <div style="flex: 1;">
-    <div>
-      <strong>This is what i call as my vibe</strong>
-    </div>
-    
     <br>
-    
+
     <ul>
       <li>I'm extremely loyal to my family</li>
       <li>I like road trips to destinations and natural attractions</li>
