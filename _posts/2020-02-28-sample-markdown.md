@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Portfolio
 subtitle: Statistical Analyses Projects
 tags: [business analytics, portfolio]
