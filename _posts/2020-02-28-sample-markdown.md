@@ -16,7 +16,7 @@ author: Siddharth Maredu
 - **Tools:** Gradient Boosted Decision Trees, EDA (Exploratory Data Analysis).
 
 <div style="float:right; width:40%; margin-left:15px;">
-    <img src="https://beautifuljekyll.com/assets/img/technology-7111798_1280.jpg" alt="Data Analysis Image Stock" style="width:100%;">
+    <img src="/assets/img/technology-7111798_1280.jpg" alt="Data Analysis Image Stock" style="width:100%;">
 </div>
 
 Here's a breakdown of the methods and findings:
@@ -26,7 +26,7 @@ Here's a breakdown of the methods and findings:
 
 ---
 
-![Airbnb Insights Image](https://beautifuljekyll.com/assets/img/airbnb insights image.png){: .mx-auto.d-block :}
+![Airbnb Insights Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/airbnb insights image.png){: .mx-auto.d-block :}
 
 <div style="float:left; width:40%; margin-right:15px;">
     <img src="/assets/img/kaggle competition .png" alt="Kaggle Competition" style="width:100%;">
