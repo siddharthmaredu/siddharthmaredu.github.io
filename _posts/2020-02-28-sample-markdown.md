@@ -15,9 +15,7 @@ author: Siddharth Maredu
 - **Results:** Found pricing strategies and property types that yield high returns.
 - **Tools:** Gradient Boosted Decision Trees, EDA (Exploratory Data Analysis).
 
-<div style="float:right; width:40%; margin-left:15px;">
-    <img src="/assets/img/technology-7111798_1280.jpg" alt="Data Analysis Image Stock" style="width:100%;">
-</div>
+![Data Analysis Image Stock](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/technology-7111798_1280.jpg){: .mx-auto.d-block :}
 
 Here's a breakdown of the methods and findings:
 
@@ -28,13 +26,11 @@ Here's a breakdown of the methods and findings:
 
 ![Airbnb Insights Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/airbnb insights image.png){: .mx-auto.d-block :}
 
-<div style="float:left; width:40%; margin-right:15px;">
-    <img src="/assets/img/kaggle competition .png" alt="Kaggle Competition" style="width:100%;">
-</div>
-
 **Kaggle Competition!**  
 - Participated in Kaggle Competition against other teams with different markets to see which team landed the most AUC score compared against the actual high booking data.  
 - Ranked in 4th position (Team Triumph) in a team of 8 members with an AUC of 0.82897 demonstrating our ability to predict high bookings with a significant accuracy.
+
+![Kaggle Competition Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/kaggle competition .png){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
