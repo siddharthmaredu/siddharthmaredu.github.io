@@ -15,7 +15,7 @@ author: Siddharth Maredu
 - **Results:** Found pricing strategies and property types that yield high returns.
 - **Tools:** Gradient Boosted Decision Trees, EDA (Exploratory Data Analysis).
 
-![Data Analysis Image Stock](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/technology-7111798_1280.jpg){: .mx-auto.d-block :}
+![Data Analysis Image Stock](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/technology-7111798_1280.jpg)
 
 Here's a breakdown of the methods and findings:
 
