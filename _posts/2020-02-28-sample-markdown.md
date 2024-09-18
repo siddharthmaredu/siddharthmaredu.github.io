@@ -8,14 +8,20 @@ mathjax: false
 author: Siddharth Maredu
 ---
 
+## [Analyses of High Bookings on Airbnb panel dataset](#analyses-of-high-bookings-on-airbnb-panel-dataset)
+## [Bank Customer Subscription Prediction](#bank-customer-subscription-prediction)
+
+---
+
 ## Analyses of High Bookings on Airbnb panel dataset
+** Analyses of High Bookings on Airbnb panel dataset **
 
 - **Role:** Critical member in analyzing Airbnb's high bookings in Los Angeles.
 - **Methods Used:** Ensemble methods, causality analysis, data cleaning, feature engineering.
 - **Results:** Found pricing strategies and property types that yield high returns.
 - **Tools:** Gradient Boosted Decision Trees, EDA (Exploratory Data Analysis).
 
-![Data Analysis Image Stock](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/technology-7111798_1280.jpg)
+![Data Analysis Image Stock](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/technology-7111798_1280.jpg){: .mx-auto.d-block :}
 
 Here's a breakdown of the methods and findings:
 
@@ -31,6 +37,11 @@ Here's a breakdown of the methods and findings:
 - Ranked in 4th position (Team Triumph) in a team of 8 members with an AUC of 0.82897 demonstrating our ability to predict high bookings with a significant accuracy.
 
 ![Kaggle Competition Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/kaggle competition .png){: .mx-auto.d-block :}
+
+---
+
+## Bank Customer Subscription Prediction
+** Bank Customer Subscription Prediction **
 
 Here's a code chunk:
 
