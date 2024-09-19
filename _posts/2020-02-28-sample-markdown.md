@@ -8,13 +8,12 @@ mathjax: false
 author: Siddharth Maredu
 ---
 
-## [Analyses of High Bookings on Airbnb panel dataset](#analyses-of-high-bookings-on-airbnb-panel-dataset)
-## [Bank Customer Subscription Prediction](#bank-customer-subscription-prediction)
+## [Analyses of High Bookings on Airbnb panel dataset](#airbnb-analysis)
+## [Bank Customer Subscription Prediction](#bank-customer-prediction)
 
 ---
 
-## Analyses of High Bookings on Airbnb panel dataset
-** Analyses of High Bookings on Airbnb panel dataset **
+<h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>
 
 - **Role:** Critical member in analyzing Airbnb's high bookings in Los Angeles.
 - **Methods Used:** Ensemble methods, causality analysis, data cleaning, feature engineering.
@@ -40,8 +39,7 @@ Here's a breakdown of the methods and findings:
 
 ---
 
-## Bank Customer Subscription Prediction
-** Bank Customer Subscription Prediction **
+<h2 id="bank-customer-prediction">Bank Customer Subscription Prediction</h2>
 
 Here's a code chunk:
 
