@@ -44,6 +44,9 @@ Here's a breakdown of the methods and findings:
 - Cleaned and processed large datasets (4,0000+ records), including handling missing values, factorizing categorical data, and performing feature selection using Lasso Regression.
 - Fine-tuned machine learning models through cross-validation, reducing error rates and increasing accuracy for complex, imbalanced datasets.
 - Applied advanced R techniques, including data manipulation, visualization, and statistical modeling, with libraries such as `caret`, `ggplot2`, `glmnet`, and `e1071`.
+
+![Classification Stock Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/text-classification-stock.png){: .mx-auto.d-block :}
+
 Here's a code chunk:
 
 ~~~
