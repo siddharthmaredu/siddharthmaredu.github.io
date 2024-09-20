@@ -1123,3 +1123,18 @@ pre {
     display: inline-block;
   }
 }
+.content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px; /* Adds space between different content blocks */
+}
+
+.content-wrapper img {
+  width: 30%;
+  margin-right: 20px;
+}
+
+.content-wrapper .text {
+  flex: 1;
+}
