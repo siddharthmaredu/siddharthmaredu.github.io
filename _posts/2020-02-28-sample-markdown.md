@@ -22,11 +22,6 @@ author: Siddharth Maredu
       <li><strong>Results:</strong> Found pricing strategies and property types that yield high returns.</li>
       <li><strong>Tools:</strong> Gradient Boosted Decision Trees, EDA (Exploratory Data Analysis).</li>
     </ul>
-    <p>Here's a breakdown of the methods and findings:</p>
-    <ol>
-      <li><strong>Pricing Strategies:</strong> Developed pricing recommendations that resulted in higher bookings.</li>
-      <li><strong>Property Types:</strong> Identified the most successful property types in the Airbnb market.</li>
-    </ol>
   </div>
 </div>
 
@@ -35,9 +30,8 @@ author: Siddharth Maredu
 <div class="content-wrapper">
   <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/airbnb insights image.png" alt="Airbnb Insights Image">
   <div class="text">
-    <h3><strong>Kaggle Competition!</strong></h3>
-    <p>Participated in Kaggle Competition against other teams with different markets to see which team landed the most AUC score compared against the actual high booking data.</p>
-    <p>Ranked in 4th position (Team Triumph) in a team of 8 members with an AUC of 0.82897 demonstrating our ability to predict high bookings with a significant accuracy.</p>
+    <p><strong>Pricing Strategies:</strong> Developed pricing recommendations that resulted in higher bookings.</p>
+    <p><strong>Property Types:</strong> Identified the most successful property types in the Airbnb market.</p>
   </div>
 </div>
 
@@ -46,8 +40,9 @@ author: Siddharth Maredu
 <div class="content-wrapper">
   <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/kaggle competition .png" alt="Kaggle Competition Image">
   <div class="text">
-    <h3>Kaggle Competition</h3>
-    <p>Participated in Kaggle Competition against other teams with different markets to see which team landed the most AUC score compared against the actual high booking data. Ranked in 4th position with an AUC of 0.82897.</p>
+    <h3><strong>Kaggle Competition!</strong></h3>
+    <p>Participated in Kaggle Competition against other teams with different markets to see which team landed the most AUC score compared against the actual high booking data.</p>
+    <p>Ranked in 4th position (Team Triumph) in a team of 8 members with an AUC of 0.82897 demonstrating our ability to predict high bookings with a significant accuracy.</p>
   </div>
 </div>
 
