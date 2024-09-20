@@ -1132,7 +1132,7 @@ pre {
 
 .content-wrapper img {
   width: 30%;
-  margin-right: 30px; /* Adjust spacing between image and text */
+  margin-right: 100px; /* Adjust spacing between image and text */
   vertical-align: top; /* Align image to top of text */
 }
 
