@@ -12,39 +12,29 @@ author: Siddharth Maredu
 ## [Bank Customer Subscription Prediction](#bank-customer-prediction)
 
 ---
-<div class="content-wrapper">
-  <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/technology-7111798_1280.jpg" alt="Data Analysis Image Stock">
-  <div class="text">
-    <h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>
-    <ul>
-      <li><strong>Role:</strong> Critical member in analyzing Airbnb's high bookings in Los Angeles.</li>
-      <li><strong>Methods Used:</strong> Ensemble methods, causality analysis, data cleaning, feature engineering.</li>
-      <li><strong>Results:</strong> Found pricing strategies and property types that yield high returns.</li>
-      <li><strong>Tools:</strong> Gradient Boosted Decision Trees, EDA (Exploratory Data Analysis).</li>
-    </ul>
-  </div>
-</div>
+<h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>
 
-<hr>
+- **Role:** Critical member in analyzing Airbnb's high bookings in Los Angeles.
+- **Methods Used:** Ensemble methods, causality analysis, data cleaning, feature engineering.
+- **Results:** Found pricing strategies and property types that yield high returns.
+- **Tools:** Gradient Boosted Decision Trees, EDA (Exploratory Data Analysis).
 
-<div class="content-wrapper">
-  <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/airbnb insights image.png" alt="Airbnb Insights Image">
-  <div class="text">
-    <p><strong>Pricing Strategies:</strong> Developed pricing recommendations that resulted in higher bookings.</p>
-    <p><strong>Property Types:</strong> Identified the most successful property types in the Airbnb market.</p>
-  </div>
-</div>
+![Data Analysis Image Stock](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/technology-7111798_1280.jpg){: .mx-auto.d-block :}
 
-<hr>
+Here's a breakdown of the methods and findings:
 
-<div class="content-wrapper">
-  <img src="https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/kaggle competition .png" alt="Kaggle Competition Image">
-  <div class="text">
-    <h3><strong>Kaggle Competition!</strong></h3>
-    <p>Participated in Kaggle Competition against other teams with different markets to see which team landed the most AUC score compared against the actual high booking data.</p>
-    <p>Ranked in 4th position (Team Triumph) in a team of 8 members with an AUC of 0.82897 demonstrating our ability to predict high bookings with a significant accuracy.</p>
-  </div>
-</div>
+1. **Pricing Strategies:** Developed pricing recommendations that resulted in higher bookings.
+2. **Property Types:** Identified the most successful property types in the Airbnb market.
+
+---
+
+![Airbnb Insights Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/airbnb insights image.png){: .mx-auto.d-block :}
+
+**Kaggle Competition!**  
+- Participated in Kaggle Competition against other teams with different markets to see which team landed the most AUC score compared against the actual high booking data.  
+- Ranked in 4th position (Team Triumph) in a team of 8 members with an AUC of 0.82897 demonstrating our ability to predict high bookings with a significant accuracy.
+
+![Kaggle Competition Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/kaggle competition .png){: .mx-auto.d-block :}
 
 ---
 
