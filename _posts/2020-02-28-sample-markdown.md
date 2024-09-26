@@ -7,7 +7,7 @@ comments: false
 mathjax: false
 author: Siddharth Maredu
 ---
-You can find all the list of accomplished projects that demonstrate my skills and achievements in business problems that require data driven decision making through the help of statistically backed results. Navigate to my portfolio on github to know more details of any specific project!!
+<p> You can find all the list of accomplished projects that demonstrate my skills and achievements in business problems that require data driven decision making through the help of statistically backed results. Navigate to my portfolio on github to know more details of any specific project!! </p>
 ---
 
 ---
