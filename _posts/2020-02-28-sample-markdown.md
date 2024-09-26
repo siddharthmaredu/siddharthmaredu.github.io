@@ -7,10 +7,13 @@ comments: false
 mathjax: false
 author: Siddharth Maredu
 ---
+You can find all the list of accomplished projects that demonstrate my skills and achievements in business problems that require data driven decision making through the help of statistically backed results. Navigate to my portfolio on github to know more details of any specific project!!
+---
 
+---
 ## [Analyses of High Bookings on Airbnb panel dataset](#airbnb-analysis)
 ## [Bank Customer Subscription Prediction](#bank-customer-prediction)
-
+## [Visualization of Products Performance using Tableau](#tableau-visualization)
 ---
 <h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>
 
@@ -46,6 +49,15 @@ Here's a breakdown of the methods and findings:
 - Applied advanced R techniques, including data manipulation, visualization, and statistical modeling, with libraries such as `caret`, `ggplot2`, `glmnet`, and `e1071`.
 
 ![Classification Stock Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/text-classification-stock.png){: .mx-auto.d-block :}
+
+---
+<h2 id="tableau-visualization">Visualization of Products Performance using Tableau</h2>
+
+- Produced visualizations that demonstrate product analyses and its review trends.
+- [Do checkout here](https://public.tableau.com/app/profile/siddharth.maredu/viz/SiddharthExamStory/Story1?publish=yes) for an Interactive dashboard that provides clear insights into product performance, consumer feedback trends and actionable insights for consumer decision making.
+
+---
+
 
 Here's a code chunk:
 
