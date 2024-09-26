@@ -15,7 +15,7 @@ You can find all the list of accomplished projects that demonstrate my skills an
 ## [Bank Customer Subscription Prediction](#bank-customer-prediction)
 ## [Visualization of Products Performance using Tableau](#tableau-visualization)
 ---
-<h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>
+**<h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>**
 
 - **Role:** Critical member in analyzing Airbnb's high bookings in Los Angeles.
 - **Methods Used:** Ensemble methods, causality analysis, data cleaning, feature engineering.
@@ -41,7 +41,7 @@ Here's a breakdown of the methods and findings:
 
 ---
 
-<h2 id="bank-customer-prediction">Bank Customer Subscription Prediction</h2>
+**<h2 id="bank-customer-prediction">Bank Customer Subscription Prediction</h2>**
 
 - Developed predictive models using Logistic Regression, KNN, Decision Trees, Gradient Boosting, and SVM to forecast customer subscription behavior with up to 91% accuracy.
 - Cleaned and processed large datasets (4,0000+ records), including handling missing values, factorizing categorical data, and performing feature selection using Lasso Regression.
@@ -51,7 +51,7 @@ Here's a breakdown of the methods and findings:
 ![Classification Stock Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/text-classification-stock.png){: .mx-auto.d-block :}
 
 ---
-<h2 id="tableau-visualization">Visualization of Products Performance using Tableau</h2>
+**<h2 id="tableau-visualization">Visualization of Products Performance using Tableau</h2>**
 
 - Produced visualizations that demonstrate product analyses and its review trends.
 - <a href="https://public.tableau.com/app/profile/siddharth.maredu/viz/SiddharthExamStory/Story1?publish=yes" target="_blank">Do checkout here</a> for an Interactive dashboard that provides clear insights into product performance, consumer feedback trends and actionable insights for consumer decision making.
