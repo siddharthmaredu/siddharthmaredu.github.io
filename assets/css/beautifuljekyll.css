@@ -1123,3 +1123,6 @@ pre {
     display: inline-block;
   }
 }
+p {
+  font-weight: 400;
+}

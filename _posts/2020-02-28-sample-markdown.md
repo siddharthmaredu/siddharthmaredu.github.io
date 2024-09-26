@@ -54,7 +54,7 @@ Here's a breakdown of the methods and findings:
 <h2 id="tableau-visualization">Visualization of Products Performance using Tableau</h2>
 
 - Produced visualizations that demonstrate product analyses and its review trends.
-- [Do checkout here](https://public.tableau.com/app/profile/siddharth.maredu/viz/SiddharthExamStory/Story1?publish=yes) for an Interactive dashboard that provides clear insights into product performance, consumer feedback trends and actionable insights for consumer decision making.
+- <a href="https://public.tableau.com/app/profile/siddharth.maredu/viz/SiddharthExamStory/Story1?publish=yes" target="_blank">Do checkout here</a> for an Interactive dashboard that provides clear insights into product performance, consumer feedback trends and actionable insights for consumer decision making.
 
 ---
 
