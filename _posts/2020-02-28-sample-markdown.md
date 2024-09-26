@@ -56,6 +56,7 @@ Here's a breakdown of the methods and findings:
 - Produced visualizations that demonstrate product analyses and its review trends.
 - <a href="https://public.tableau.com/app/profile/siddharth.maredu/viz/SiddharthExamStory/Story1?publish=yes" target="_blank">Do checkout here</a> for an Interactive dashboard that provides clear insights into product performance, consumer feedback trends and actionable insights for consumer decision making.
 
+![Tableau Stock Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/what is tableau.png){: .mx-auto.d-block :}
 ---
 
 
