@@ -2,7 +2,7 @@
 layout: post
 title: My Passion for Photography
 subtitle: 📍Otter Point, Acadia National Park
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/IMG_9872.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Serenity, Nature]
