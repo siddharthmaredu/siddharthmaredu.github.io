@@ -13,6 +13,7 @@ author: Siddharth Maredu
 ## [Analyses of High Bookings on Airbnb panel dataset](#airbnb-analysis)
 ## [Bank Customer Subscription Prediction](#bank-customer-prediction)
 ## [Visualization of Products Performance using Tableau](#tableau-visualization)
+## [Ted Talks Trend Analysis](#tedtalks-dataset-analysis)
 ---
 <h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>
 
@@ -56,4 +57,16 @@ Here's a breakdown of the methods and findings:
 - <a href="https://public.tableau.com/app/profile/siddharth.maredu/viz/SiddharthExamStory/Story1?publish=yes" target="_blank">Do checkout here</a> for an Interactive dashboard that provides clear insights into product performance, consumer feedback trends and actionable insights for consumer decision making.
 
 ![Tableau Stock Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/what is tableau.png){: .mx-auto.d-block :}
+
+---
+<h2 id="tedtalks-dataset-analysis">Ted Talks Trend Analysis</h2>
+
+- Identified trends in TED Talks from 2006 to 2017, including a steady rise in talks until 2013 and a shift towards quality content thereafter.
+- Revealed that TED Talks with high views do not necessarily lead to high audience engagement.
+- Performed sentiment analysis showing a predominance of positive language in TED Talks, reinforcing TED's inspirational branding.
+- Mapped speaker occupation types, identifying writers and activists as dominant groups in TED Talks.
+- **Text Analysis:** Conducted sentiment and word frequency analysis to uncover thematic content.
+- Applied Regression Techniques to explore relationship between views and comments.
+
+![TedTalks Stock Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/TED-talk-2016.png){: .mx-auto.d-block :}
 ---
