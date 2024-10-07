@@ -15,7 +15,7 @@ author: Siddharth Maredu
 ## [Visualization of Products Performance using Tableau](#tableau-visualization)
 ## [Ted Talks Trend Analysis](#tedtalks-dataset-analysis)
 ---
-<h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2> | <a href="https://github.com/siddharthmaredu/Statistical-Analysis-Projects/tree/1ad8ba978672292a17f7bedeafc60c32be0ba7f1/Big%20Data%20Airbnb%20Bookings%20Project" target="_blank">Check it Out!</a>
+<h2 id="airbnb-analysis">Analyses of High Bookings on Airbnb panel dataset</h2>|<a href="https://github.com/siddharthmaredu/Statistical-Analysis-Projects/tree/1ad8ba978672292a17f7bedeafc60c32be0ba7f1/Big%20Data%20Airbnb%20Bookings%20Project" target="_blank">Check it Out!</a>
 
 - **Role:** Critical member in analyzing Airbnb's high bookings in Los Angeles.
 - **Methods Used:** Ensemble methods, causality analysis, data cleaning, feature engineering.
@@ -41,7 +41,7 @@ Here's a breakdown of the methods and findings:
 
 ---
 
-<h2 id="bank-customer-prediction">Bank Customer Subscription Prediction</h2> | <a href="https://github.com/siddharthmaredu/Statistical-Analysis-Projects/tree/1ad8ba978672292a17f7bedeafc60c32be0ba7f1/Bank%20Customer%20Subscription%20Prediction%20Project" target="_blank">Check it Out!</a>
+<h2 id="bank-customer-prediction">Bank Customer Subscription Prediction</h2>|<a href="https://github.com/siddharthmaredu/Statistical-Analysis-Projects/tree/1ad8ba978672292a17f7bedeafc60c32be0ba7f1/Bank%20Customer%20Subscription%20Prediction%20Project" target="_blank">Check it Out!</a>
 
 - Developed predictive models using Logistic Regression, KNN, Decision Trees, Gradient Boosting, and SVM to forecast customer subscription behavior with up to 91% accuracy.
 - Cleaned and processed large datasets (4,0000+ records), including handling missing values, factorizing categorical data, and performing feature selection using Lasso Regression.
@@ -59,7 +59,7 @@ Here's a breakdown of the methods and findings:
 ![Tableau Stock Image](https://github.com/siddharthmaredu/siddharthmaredu.github.io/raw/master/assets/img/what is tableau.png){: .mx-auto.d-block :}
 
 ---
-<h2 id="tedtalks-dataset-analysis">Ted Talks Trend Analysis</h2> | <a href="https://github.com/siddharthmaredu/Statistical-Analysis-Projects/tree/1ad8ba978672292a17f7bedeafc60c32be0ba7f1/Ted%20Talks%20Trend%20Analysis%20Project" target="_blank">Check it Out!</a>
+<h2 id="tedtalks-dataset-analysis">Ted Talks Trend Analysis</h2>|<a href="https://github.com/siddharthmaredu/Statistical-Analysis-Projects/tree/1ad8ba978672292a17f7bedeafc60c32be0ba7f1/Ted%20Talks%20Trend%20Analysis%20Project" target="_blank">Check it Out!</a>
 
 - Identified trends in TED Talks from 2006 to 2017, including a steady rise in talks until 2013 and a shift towards quality content thereafter.
 - Revealed that TED Talks with high views do not necessarily lead to high audience engagement.
