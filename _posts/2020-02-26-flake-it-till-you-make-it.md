@@ -1,8 +1,5 @@
 ---
 layout: post
-title: My Passion for Photography
-subtitle: 📍Acadia National Park
-cover-img: /assets/img/IMG_9872.jpg
 thumbnail-img: /assets/img/IMG_0176-min.JPG
 share-img: /assets/img/path.jpg
 tags: [Serenity, Nature]

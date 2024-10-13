@@ -1,5 +1,7 @@
 ---
 layout: page
+subtitle: 📍Acadia National Park
+cover-img: /assets/img/IMG_9872.jpg
 title: "<span style='font-size: 1.75rem;'>About me</span>"
 ---
 
