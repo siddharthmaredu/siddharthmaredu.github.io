@@ -2,7 +2,7 @@
 layout: post
 subtitle: 📍Acadia National Park
 cover-img: /assets/img/IMG_9872.jpg
-title: "<span style='font-size: 1.75rem;'>About me</span>"
+title: "<span style='font-size: 1.75rem;'>My Passion for Photography</span>"
 ---
 
 <div style="margin-bottom: 20px;"></div>
