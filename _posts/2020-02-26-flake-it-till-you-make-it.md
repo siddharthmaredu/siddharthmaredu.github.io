@@ -1,6 +1,7 @@
 ---
 layout: post
 thumbnail-img: /assets/img/IMG_0176-min.JPG
+cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [Serenity, Nature]
 ---
